@@ -12,42 +12,6 @@
 >
 > *Best of luck to you!*
 
-<details>
-<summary>Translations:</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-
-</details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
-</details>
-
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
@@ -68,13 +32,9 @@ If you want to be a reliability engineer or operations engineer, study more from
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-- [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [The Daily Plan](#the-daily-plan)
@@ -184,54 +144,6 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
-## Why use it?
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
-
-It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
-
-    Fork a branch and follow the commands below
-
-Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button
-
-    Clone to your local repo
-
-`git clone git@github.com:<your_github_username>/coding-interview-university.git`
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add .`
-
-`git commit -m "Marked x"`
-
-`git rebase jwasham/main`
-
-`git push --set-upstream origin progress`
-
-`git push --force`
-
-[More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
@@ -249,7 +161,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [X] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
@@ -272,100 +184,6 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
     - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
-
-## Pick One Language for the Interview
-
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
-
-- C++
-- Java
-- Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
-
-Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
-
-You need to be very comfortable in the language and be knowledgeable.
-
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
-[See language resources here](programming-language-resources.md)
-
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
-
-## Book List
-
-This is a shorter list than what I used. This is abbreviated to save you time.
-
-### Interview Prep
-
-- [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
-    - answers in C++ and Java
-    - this is a good warm-up for Cracking the Coding Interview
-    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - answers in Java
-
-### If you have tons of extra time:
-
-Choose one:
-
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- [ ] Elements of Programming Interviews (Java version)
-    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
-    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
-
-### Language Specific
-
-**You need to choose a language for the interview (see above).**
-
-Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
-
-If you read through one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
-**You can skip all the video lectures in this project**, unless you'd like a review.
-
-[Additional language-specific resources here.](programming-language-resources.md)
-
-### C++
-
-I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
-
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-- [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
-    - Rich and detailed collection of Data Structures and Algorithms
-    - Great for first-timers
-
-If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
-
-### Java
-
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-    - videos with book content (and Sedgewick!) on coursera:
-        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
-        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
-
-OR:
-
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
-    - by Goodrich, Tamassia, Goldwasser
-    - used as optional text for CS intro course at UC Berkeley
-    - see my book report on the Python version below. This book covers the same topics
-
-### Python
-
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - by Goodrich, Tamassia, Goldwasser
-    - I loved this book. It covered everything and more
-    - Pythonic code
-    - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-- [ ] [Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
 
 ## Before you Get Started
 
