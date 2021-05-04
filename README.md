@@ -12,7 +12,6 @@
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
