@@ -5,6 +5,9 @@
 > 
 > I will be completing the tasks and mark them as [X].
 > Also, will be saving all my Notes and Code practices in the directories called Notes and Code.
+>
+> By the way, I remade this repo for Python !!! 
+> So if you know only Python and planning to pass your interview with it. It's for you!
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
