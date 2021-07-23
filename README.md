@@ -140,8 +140,8 @@
         - [X] [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
 
 - ### Stacks and Queues
-    - [ ] [PDF Princeton](https://www.cs.princeton.edu/courses/archive/fall18/cos126/lectures/CS.12.StacksQueues-2x2.pdf)
-    - [ ] [Implement Stacks using Python]
+    - [X] [PDF Princeton](https://www.cs.princeton.edu/courses/archive/fall18/cos126/lectures/CS.12.StacksQueues-2x2.pdf)
+    - [X] [Implement Stacks using Python]
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] Implement Queue using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
