@@ -140,18 +140,15 @@
     - [X] Doubly-linked List
         - [X] [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
 
-- ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-    - [ ] Will not implement. Implementing with array is trivial
-
-- ### Queue
-    - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+- ### Stacks and Queues
+    - [ ] [PDF Princeton](https://www.cs.princeton.edu/courses/archive/fall18/cos126/lectures/CS.12.StacksQueues-2x2.pdf)
+    - [ ] [Implement Stacks using Python]
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] Implement using linked-list, with tail pointer:
+    - [ ] Implement Queue using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [ ] Implement using fixed-sized array:
+    - [ ] Implement Queue using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
