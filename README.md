@@ -141,18 +141,15 @@
 
 - ### Stacks and Queues
     - [X] [PDF Princeton](https://www.cs.princeton.edu/courses/archive/fall18/cos126/lectures/CS.12.StacksQueues-2x2.pdf)
-    - [X] [Implement Stacks using Python]
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] Implement Queue using linked-list, with tail pointer:
-        - enqueue(value) - adds value at position at tail
-        - dequeue() - returns value and removes least recently added element (front)
-        - empty()
-    - [ ] Implement Queue using fixed-sized array:
-        - enqueue(value) - adds item at end of available storage
-        - dequeue() - returns value and removes least recently added element
-        - empty()
-        - full()
-    - [ ] Cost:
+    - [X] Implement Stacks using Python
+    - [X] Implement Queue using linked-list, with tail pointer:
+    	- [X] print() - display all elements in queue
+        - [X] enqueue(value) - adds value at position at tail
+        - [X] dequeue() - returns value and removes least recently added element (front)
+        - [X] empty()
+    - [X] [Read about Circular buffer](https://medium.com/@edwin.cloud/wrapping-your-head-around-circular-buffers-e84cbf549a04)
+    - [X] [More about Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [X] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
