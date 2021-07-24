@@ -174,11 +174,11 @@
             - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
     - [ ] Implement with array using linear probing
-        - hash(k, m) - m is size of hash table
-        - add(key, value) - if key already exists, update value
-        - exists(key)
-        - get(key)
-        - remove(key)
+        - [ ] hash(k, m) - m is size of hash table
+        - [ ] add(key, value) - if key already exists, update value
+        - [ ] exists(key)
+        - [ ] get(key)
+        - [ ] remove(key)
 
 ## More Knowledge
 
