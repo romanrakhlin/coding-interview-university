@@ -174,6 +174,14 @@
         - [ ] get(key)
         - [ ] remove(key)
 
+    - [ ] Implement with array using chaining
+        - [ ] hash(k, m) - m is size of hash table
+        - [ ] add(key, value) - if key already exists, update value
+        - [ ] exists(key)
+        - [ ] get(key)
+        - [ ] remove(key)
+
+
 ## More Knowledge
 
 - ### Binary search
