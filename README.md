@@ -157,30 +157,27 @@
         - empty: O(1) (linked list and array)
 
 - ### Hash table
-    - [ ] Videos:
+    - [X] Videos:
     	- [X] [Just for clear start](https://www.youtube.com/watch?v=nvzVHwrrub0)
     	- [X] [Only part about resolving collisions](https://www.youtube.com/watch?v=sfWyugl4JWA)
         - [X] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
-        - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-        - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
-        - [ ] [The hash tables in Python](https://www.tutorialspoint.com/python_data_structure/python_hash_table.htm)
-        - [ ] [How dict is implemented inside Python?](https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented)
-        - [ ] [Nice implementation in Python using Linked Lists](https://medium.com/@edwin.cloud/hash-tables-simplified-93e378b7a3e8)
+        - [X] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+        - [X] [The hash tables in Python](https://www.tutorialspoint.com/python_data_structure/python_hash_table.htm)
+        - [X] [How dict is implemented inside Python?](https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented)
     
     - [ ] Implement with array using linear probing
-        - [ ] hash(k, m) - m is size of hash table
-        - [ ] add(key, value) - if key already exists, update value
+        - [X] hash(key) - create own hash function
+        - [X] add(key, value) - if key already exists, update value
         - [ ] exists(key)
-        - [ ] get(key)
+        - [X] get(key)
         - [ ] remove(key)
 
     - [ ] Implement with array using chaining
-        - [ ] hash(k, m) - m is size of hash table
+        - [ ] hash(key) - create own hash function
         - [ ] add(key, value) - if key already exists, update value
         - [ ] exists(key)
         - [ ] get(key)
         - [ ] remove(key)
-
 
 ## More Knowledge
 
