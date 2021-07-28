@@ -165,19 +165,17 @@
         - [X] [The hash tables in Python](https://www.tutorialspoint.com/python_data_structure/python_hash_table.htm)
         - [X] [How dict is implemented inside Python?](https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented)
     
-    - [ ] Implement with array using linear probing
-        - [X] hash(key) - create own hash function
-        - [X] add(key, value) - if key already exists, update value
-        - [ ] exists(key)
-        - [X] get(key)
-        - [ ] remove(key)
+    - [X] Implement with array using linear probing
+        - [X] hash_function(key) - create own hash function
+        - [X] __setitem__(key, value) - if key already exists, update value
+        - [X] __getitem__(key)
+        - [X] __delitem__(key)
 
-    - [ ] Implement with array using chaining
-        - [ ] hash(key) - create own hash function
-        - [ ] add(key, value) - if key already exists, update value
-        - [ ] exists(key)
-        - [ ] get(key)
-        - [ ] remove(key)
+    - [X] Implement with array using chaining
+        - [X] hash_function(key) - create own hash function
+        - [X] __setitem__(key, value) - if key already exists, update valuey)
+        - [X] __getitem__(key)
+        - [X] __delitem__(key)
 
 ## More Knowledge
 
