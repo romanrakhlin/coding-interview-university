@@ -181,11 +181,11 @@
 
 - ### Binary search
     - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
-    - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
-    - [ ] Implement: binary search (on sorted array of integers)
-    	- [ ] - binary search using recursion
-    	- [ ] - binary search using iterations
+    - [X] [Nice and smooth explanations (vodeo)](https://www.youtube.com/watch?v=DnvWAd-RGhk)
+    - [X] [About implementation of recursive and iterative methods (article)](https://www.geeksforgeeks.org/python-program-for-binary-search/)
+    - [X] Implement: binary search (on sorted array of integers)
+    	- [X] - binary search using recursion
+    	- [X] - binary search using iterations
 
 - ### Bitwise operations
     - [X] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
