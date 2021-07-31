@@ -198,12 +198,10 @@
 ## Trees
 
 - ### Trees - Notes & Background
-    - [ ] [Series: Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
-    - basic tree construction
-    - traversal
-    - manipulation algorithms
-    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
-    - [ ] [More details about BFS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/)
+    - [X] [Series: Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
+    - [X] [Read about difderence between binary tree and general tree](https://www.geeksforgeeks.org/difference-between-binary-tree-and-binary-search-tree/)
+    - [X] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+    - [X] [More details about BFS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/)
     - [ ] [More details about DFS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort/)
         - BFS notes:
            - level order (BFS, using queue)
@@ -217,6 +215,8 @@
             - inorder (DFS: left, self, right)
             - postorder (DFS: left, right, self)
             - preorder (DFS: self, left, right)
+    - [X] [Implement BFS with binary tree, or find the optimal implementation here](https://stackoverflow.com/questions/2598437/how-to-implement-a-binary-tree)
+    - [] [Implement all types of BSD with binary tree](https://www.youtube.com/watch?v=6oL-0TdVy28&t=655s)
 
 - ### Binary search trees: BSTs
     - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
