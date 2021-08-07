@@ -246,15 +246,12 @@
     - [X] Implement other useful methods:
         - [X] heapify() - create a heap from an array of elements, needed for heap_sort
         - [X] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
-    - [ ] Build max and min heap using module in python
+    - [X] Build max and min heap using module in python
     - [ ] Additional videos
         - [ ] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
         - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
-    - [ ] About Priority Queues
         - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
-        - [ ] Добавить сюда видео про priority queue
-        - [ ] Implement Priority Queue in Python
-        - [ ] Implement Priority Queue using module in Python
+
 
 ## Sorting
 
@@ -269,8 +266,6 @@
     - [ ] Which algorithms can be used on linked lists? Which on arrays? Which on both?
         - I wouldn't recommend sorting a linked list, but merge sort is doable.
         - [Merge Sort For Linked List](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
-
-- For heapsort, see Heap data structure above. Heap sort is great, but not stable
 
 - [ ] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
     - [ ] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
