@@ -256,10 +256,18 @@
 ## Sorting
 
 - ### Insertion Sort
+    - [X] Theoty
+        - [X] [Read in Wiki](https://en.wikipedia.org/wiki/Insertion_sort)
+        - [X] [Nice visualization](https://www.youtube.com/watch?v=JU767SDMDvA)
+        - [X] [Clear implementation in Python](https://www.youtube.com/watch?v=R_wDA-PmGE4)
+    - [X] Write down some notes
+    - [X] Implement in Python
+ 
+- ### Selection Sort
     - [ ] Theoty
-        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Insertion_sort)
-        - [ ] [Nice visualization](https://www.youtube.com/watch?v=JU767SDMDvA)
-        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=R_wDA-PmGE4)
+        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Selection_sort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=g-PGLbMth_g)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=ee80YmiaSVQ)
     - [ ] Write down some notes
     - [ ] Implement in Python
 
