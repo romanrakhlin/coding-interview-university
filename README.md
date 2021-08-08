@@ -255,6 +255,10 @@
 
 ## Sorting
 
+- ### Insertion Sort
+    - [ ] Theoty
+        - [ ] 
+
 - [ ] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
