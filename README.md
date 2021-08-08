@@ -257,7 +257,11 @@
 
 - ### Insertion Sort
     - [ ] Theoty
-        - [ ] 
+        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Insertion_sort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=JU767SDMDvA)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=R_wDA-PmGE4)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
 
 - [ ] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
