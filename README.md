@@ -30,11 +30,8 @@
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
 - [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
+    - [Insertion Sort](#insertion-sort)
+    - [Selection Sort](#selection-sort)
 - [Graphs](#graphs)
     - directed
     - undirected
