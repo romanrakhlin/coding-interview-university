@@ -32,6 +32,7 @@
 - [Sorting](#sorting)
     - [Insertion Sort](#insertion-sort)
     - [Selection Sort](#selection-sort)
+    - [Merge Sort](#merge-sort)
 - [Graphs](#graphs)
     - directed
     - undirected
