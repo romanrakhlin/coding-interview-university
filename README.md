@@ -261,10 +261,18 @@
     - [X] Implement in Python
  
 - ### Selection Sort
+    - [X] Theoty
+        - [X] [Read in Wiki](https://en.wikipedia.org/wiki/Selection_sort)
+        - [X] [Nice visualization](https://www.youtube.com/watch?v=g-PGLbMth_g)
+        - [X] [Clear implementation in Python](https://www.youtube.com/watch?v=ee80YmiaSVQ)
+    - [X] Write down some notes
+    - [X] Implement in Python
+
+- ### Merge Sort
     - [ ] Theoty
-        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Selection_sort)
-        - [ ] [Nice visualization](https://www.youtube.com/watch?v=g-PGLbMth_g)
-        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=ee80YmiaSVQ)
+        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Merge_sort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=cVZMah9kEjI)
     - [ ] Write down some notes
     - [ ] Implement in Python
 
