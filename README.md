@@ -33,6 +33,14 @@
     - [Insertion Sort](#insertion-sort)
     - [Selection Sort](#selection-sort)
     - [Merge Sort](#merge-sort)
+    - [Quick Sort](#quick-sort)
+    - [Shell Sort](#shell-sort)
+    - [Bubble Sort](#bubble-sort)
+    - [Comb Sort](#comb-sort)
+    - [Exchange Sort](#exchange-sort)
+    - [Counting Sort](#counting-sort)
+    - [Bucket Sort](#bucket-sort)
+    - [Radix Sort](#radix-sort)
 - [Graphs](#graphs)
     - directed
     - undirected
@@ -270,37 +278,76 @@
     - [X] Implement in Python
 
 - ### Merge Sort
+    - [X] Theoty
+        - [X] [Read in Wiki](https://en.wikipedia.org/wiki/Merge_sort)
+        - [X] [Nice visualization](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+        - [X] [Clear implementation in Python](https://www.youtube.com/watch?v=cVZMah9kEjI)
+    - [X] Write down some notes
+    - [X] Implement in Python
+
+- ### Quick Sort
     - [ ] Theoty
-        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Merge_sort)
-        - [ ] [Nice visualization](https://www.youtube.com/watch?v=4VqmGXwpLqc)
-        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=cVZMah9kEjI)
+        - [X] [Read in Wiki](https://en.wikipedia.org/wiki/Quicksort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=Hoixgm4-P4M)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=9KBwdDEwal8)
     - [ ] Write down some notes
     - [ ] Implement in Python
 
-- [ ] Notes:
-    - Implement sorts & know best case/worst case, average complexity of each:
-        - no bubble sort - it's terrible - O(n^2), except when n <= 16
-    - [ ] Stability in sorting algorithms ("Is Quicksort stable?")
-        - [Sorting Algorithm Stability](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
-        - [Stability In Sorting Algorithms](http://stackoverflow.com/questions/1517793/stability-in-sorting-algorithms)
-        - [Stability In Sorting Algorithms](http://www.geeksforgeeks.org/stability-in-sorting-algorithms/)
-        - [Sorting Algorithms - Stability](http://homepages.math.uic.edu/~leon/cs-mcs401-s08/handouts/stability.pdf)
-    - [ ] Which algorithms can be used on linked lists? Which on arrays? Which on both?
-        - I wouldn't recommend sorting a linked list, but merge sort is doable.
-        - [Merge Sort For Linked List](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+- ### Shell Sort
+    - [ ] Theoty
+        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Shellsort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=ddeLSDsYVp8)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=6302OIppXEI)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
 
-- [ ] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
-    - [ ] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
-    - [ ] [2. Bottom up Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/PWNEl/bottom-up-mergesort)
-    - [ ] [3. Sorting Complexity](https://www.coursera.org/learn/algorithms-part1/lecture/xAltF/sorting-complexity)
-    - [ ] [4. Comparators](https://www.coursera.org/learn/algorithms-part1/lecture/9FYhS/comparators)
-    - [ ] [5. Stability](https://www.coursera.org/learn/algorithms-part1/lecture/pvvLZ/stability)
+- ### Bubble Sort
+    - [ ] Theoty
+        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Bubble_sort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=xli_FI7CuzA)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=vuOpxXeFjg8)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
 
-- [ ] [Sedgewick - Quicksort (4 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
-    - [ ] [1. Quicksort](https://www.coursera.org/learn/algorithms-part1/lecture/vjvnC/quicksort)
-    - [ ] [2. Selection](https://www.coursera.org/learn/algorithms-part1/lecture/UQxFT/selection)
-    - [ ] [3. Duplicate Keys](https://www.coursera.org/learn/algorithms-part1/lecture/XvjPd/duplicate-keys)
-    - [ ] [4. System Sorts](https://www.coursera.org/learn/algorithms-part1/lecture/QBNZ7/system-sorts)
+- ### Comb Sort
+    - [ ] Theoty
+        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Comb_sort)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=X5DKBwDL0kU)
+        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=kBNE2HMPTok)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
+
+- ### Exchange Sort
+    - [ ] Theoty
+        - [ ] [Read on some old website](https://mathbits.com/MathBits/Java/arrays/Exchange.htm)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=xnfFS1kl0aM)
+        - [ ] [Clear implementation in Python](хзззз)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
+
+- ### Counting Sort
+    - [ ] Theoty
+        - [ ] [Read on some old website](https://mathbits.com/MathBits/Java/arrays/Exchange.htm)
+        - [ ] [Nice visualization](https://www.youtube.com/watch?v=xnfFS1kl0aM)
+        - [ ] [Clear implementation in Python](хзззз)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
+ 
+- ### Bucket Sort
+    - [ ] Theoty
+        - [ ] [Read on some old website](zzz)
+        - [ ] [Nice visualization](zzz)
+        - [ ] [Clear implementation in Python](zzz)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
+
+- ### Radix Sort
+    - [ ] Theoty
+        - [ ] [Read on some old website](zzz)
+        - [ ] [Nice visualization](zzz)
+        - [ ] [Clear implementation in Python](zzz)
+    - [ ] Write down some notes
+    - [ ] Implement in Python
 
 - [ ] UC Berkeley:
     - [ ] [CS 61B Lecture 29: Sorting I (video)](https://archive.org/details/ucberkeley_webcast_EiUvYS2DT6I)
@@ -315,17 +362,6 @@
 - [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB)
 - [ ] [Quicksort (video)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
 - [ ] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB)
-
-- [ ] Merge sort code:
-    - [ ] [Using output array (Python)](https://github.com/jwasham/practice-python/blob/master/merge_sort/merge_sort.py)
-- [ ] Quick sort code:
-    - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
-
-- [ ] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
-    - [ ] Quicksort O(n log n) average case
-    - Selection sort and insertion sort are both O(n^2) average and worst case
-    - For heapsort, see Heap data structure above
 
 - [ ] Not required, but I recommended them:
     - [ ] [Sedgewick - Radix Sorts (6 videos)](https://www.coursera.org/learn/algorithms-part2/home/week/3)
