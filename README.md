@@ -289,19 +289,18 @@
     - [X] Implement in Python
 
 - ### Bubble Sort
-    - [ ] Theoty
-        - [ ] [Read in Wiki](https://en.wikipedia.org/wiki/Bubble_sort)
-        - [ ] [Nice visualization](https://www.youtube.com/watch?v=xli_FI7CuzA)
-        - [ ] [Clear implementation in Python](https://www.youtube.com/watch?v=vuOpxXeFjg8)
-    - [ ] Write down some notes
-    - [ ] Implement in Python
+    - [X] Theoty
+        - [X] [Read in Wiki](https://en.wikipedia.org/wiki/Bubble_sort)
+        - [X] [Nice visualization](https://www.youtube.com/watch?v=xli_FI7CuzA)
+        - [X] [Clear implementation in Python](https://www.youtube.com/watch?v=vuOpxXeFjg8)
+    - [X] Write down some notes
+    - [X] Implement in Python
 
 - ### Radix Sort
-    - [ ] Theoty
-        - [ ] [Read on some old website](https://en.wikipedia.org/wiki/Radix_sort)
-        - [ ] [Nice visualization + Clear implementation in Python](https://www.youtube.com/watch?v=BVGRgTALQ44)
-    - [ ] Write down some notes
-    - [ ] Implement in Python
+    - [X] Theoty
+        - [X] [Read on some old website](https://en.wikipedia.org/wiki/Radix_sort)
+        - [X] [Nice and Clear Explanation](https://www.youtube.com/watch?v=Uey0-GOMtT8)
+    - [X] Write down some notes
 
 - ### Additional info
     - [ ] UC Berkeley:
@@ -323,17 +322,7 @@ As a summary, here is a visual representation of [15 sorting algorithms](https:/
 
 ## Graphs
 
-Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
-
-- Notes:
-    - There are 4 basic ways to represent a graph in memory:
-        - objects and pointers
-        - adjacency matrix
-        - adjacency list
-        - adjacency map
-    - Familiarize yourself with each representation and its pros & cons
-    - BFS and DFS - know their computational complexity, their trade offs, and how to implement them in real code
-    - When asked a question, look for a graph-based solution first, then move on if none
+Взять чисто теорию что такое графы (посмотрев лекции Скиены) и примерно понять как реализовывать их на питоне (может даже и без этого) а еще узнать про Джекстру!! обязательно и тоже на питоне писать плюс BFS и DFS. Но в подробности сильно не вдаваться и заадчи не решать. Это уже оставить на потом на далекое будущее главное просто понять концепт
 
 - [ ] MIT(videos):
     - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
@@ -391,6 +380,9 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
 
 - ### Dynamic Programming
+
+   оставить на потом на далекое будущее не вдавать пока в это все
+
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a problem as being a candidate for dynamic programming.
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
